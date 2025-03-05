@@ -5,4 +5,4 @@ This Python program (decistion_tree_2.py) train, test decision trees, and output
 - contact_lens_training_2.csv
 - contact_lens_training_3.csv
 # **Test sets:**
-- contact_lens_test.csc
+- contact_lens_test.csv
